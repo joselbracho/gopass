@@ -1,12 +1,14 @@
 # Task Management System
 
 ![Dashboard Preview](preview_dashboard.svg)
+![Dashboard Screenshot](Screenshot 1.png)
 
 Este es un sistema de gestión de proyectos y tareas construido con React, Node.js y PostgreSQL, orquestado con Docker.
 
 ## Características
 - **Dashboard**: Visualización de proyectos y sus tareas con un diseño moderno y colorido.
 - **Admin**: CRUD completo de proyectos (protegido por autenticación).
+![Admin Screenshot](Screenshot 2.png)
 - **Backend**: API REST con arquitectura basada en servicios y fachadas.
 - **Seguridad**: Autenticación JWT y hashing de contraseñas con bcrypt.
 
